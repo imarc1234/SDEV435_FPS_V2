@@ -1,12 +1,15 @@
 # Version 0.7 
-# Contents updated: 04-02-2023
+# Contents updated: 04-26-2023
 
 # SDEV435_FPS_V2
 A FirstPerson Shooter Demo
 Developed with Unreal Engine 5
 
 ## Installation
-NOTE: A 'Demo' file will be provided at end of class for download.
+To change resolution, hit the '~' key to open console and type:
+r.SetRes 1920x1080        for 1080p or whatever needed such as 
+r.SetRes 2560x1440        is 1440p
+r.SetRes 3840x2160        is 4k
 
 The following are general instructions and will not 'build' the project without
 the required assets. The required assets are not available for redistribution and are not included. 
@@ -22,14 +25,12 @@ Keyboard and mouse > added and tested
 Controller         > added and not tested               
 
 Movement           > WASD 
-LeftMouseButton    > Shoot
-RightMouseButton   > Aim
+LeftMouseButton    > Shoot/Throw 
+PickUp/DropOff     > E
 Jump               > Space
 Crouch             > C/Ctrl
 Run                > Shift
-Interact           > E
-PrimaryWeapon      > 1
-SecondaryWeapon    > 2
+Switch Weapons     > Scroll Wheel
 
 ## Contributing
 Not available at this time
