@@ -22,14 +22,21 @@ If one is interested in the project, they need to provide their own assets.
 
 ## Usage 
 Keyboard and mouse > added and tested 
+
 Controller         > added and not tested               
 
 Movement           > WASD 
+
 LeftMouseButton    > Shoot/Throw 
+
 PickUp/DropOff     > E
+
 Jump               > Space
+
 Crouch             > C/Ctrl
+
 Run                > Shift
+
 Switch Weapons     > Scroll Wheel
 
 ## Contributing
